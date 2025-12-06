@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { QUIZ_QUESTIONS } from '../constants';
+import { QUIZ_QUESTIONS } from './constants';
 import { GameState } from '../types';
 import { Trophy, RefreshCw, BrainCircuit, Gamepad2, ArrowLeft } from 'lucide-react';
 import { MemoryMatch } from './MemoryMatch';

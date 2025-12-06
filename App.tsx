@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Navigation } from './components/Navigation';
+import { Navigation } from './Navigation';
 import { Hero } from './components/Hero';
 import { AgenticHub } from './components/AgenticHub';
 import { CharacterShowcase } from './components/CharacterShowcase';

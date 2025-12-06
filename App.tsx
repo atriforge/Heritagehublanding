@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { Navigation } from './Navigation';
-import { Hero } from './components/Hero';
-import { AgenticHub } from './components/AgenticHub';
-import { CharacterShowcase } from './components/CharacterShowcase';
-import { Services } from './components/Services';
-import { Games } from './components/Games';
-import { StorySection } from './components/StorySection';
+import { Hero } from './Hero';
+import { AgenticHub } from './AgenticHub';
+import { CharacterShowcase } from './CharacterShowcase';
+import { Services } from './Services';
+import { Games } from './Games';
+import { StorySection } from './StorySection';
 import { Leaf, Mail, Instagram, Facebook } from 'lucide-react';
 
 const App: React.FC = () => {

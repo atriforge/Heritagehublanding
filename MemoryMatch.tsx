@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { MEMORY_PAIRS } from '../constants';
+import { MEMORY_PAIRS } from './constants';
 import { MemoryCardState, GameState } from '../types';
 import { motion } from 'framer-motion';
 import { Trophy, RefreshCw, Zap } from 'lucide-react';

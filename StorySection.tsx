@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { STORIES, HERITAGE_SITES } from '../constants';
+import { STORIES, HERITAGE_SITES } from './constants';
 import { MapPin, User, Tag } from 'lucide-react';
 
 export const StorySection: React.FC = () => {
